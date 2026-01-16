@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StringEquality/StringEquality.csproj" />
+  <Project Path="StringEqualityVB/StringEqualityVB.vbproj" />
+</Solution>
